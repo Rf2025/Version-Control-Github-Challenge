@@ -1,0 +1,25 @@
+
+
+1.  Explain what the terminal is in your own words.
+
+     It is a direct interface that  allows you to interact with the operating system, you remove, create and edit files directly without a GUI. 
+
+
+
+
+
+
+
+2. What is the major difference between Git and GitHub?
+
+   git is a version control system, github is where git respositorys are hosted
+
+
+
+
+
+
+
+3.  What are the steps to fork a GitHub repository?
+
+   go to the repository that you want to fork, click in fork.
